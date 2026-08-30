@@ -1,8 +1,3 @@
-<h1 align="center">
-  <span style="color: red; font-weight: bold;">Hi <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="60">   , I'm Deepanshu Verma</span>
-</h1>
-<h2 align="center">"Debug Justly, Program Uniquely, Build Joyfully"</em></h2>
-
 
 <div align="center">
   
@@ -36,14 +31,7 @@ I’m **Deepanshu Verma**, a software developer with a strong **engineering mind
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
-
-##  📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=deepanshuiiitv&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=deepanshuiiitv&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshuiiitv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=deepanshuiiitv&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
